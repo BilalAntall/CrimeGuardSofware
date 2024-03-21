@@ -1,0 +1,110 @@
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\Crime App.exe.config
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\Crime App.exe
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\Crime App.pdb
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\obj\Debug\Crime App.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\obj\Debug\App.g.cs
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\obj\Debug\Crime App_MarkupCompile.cache
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\obj\Debug\Crime App_MarkupCompile.lref
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\obj\Debug\Crime App.g.resources
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\obj\Debug\Crime_App.Properties.Resources.resources
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\obj\Debug\Crime App.csproj.GenerateResource.cache
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\obj\Debug\Crime App.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\obj\Debug\Crime App.exe
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\obj\Debug\Crime App.pdb
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\obj\Debug\Login_Page.g.cs
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\obj\Debug\Login_Page.baml
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\obj\Debug\Mainwindow.g.cs
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\obj\Debug\Mainwindow.baml
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\EntityFramework.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\System.Data.SQLite.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\EntityFramework.xml
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\System.Data.SQLite.xml
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\obj\Debug\Crime App.csproj.CopyComplete
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\LiveCharts.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\LiveCharts.pdb
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\LiveCharts.xml
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\MaterialSkin.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\Deedle.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\FSharp.Core.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\Deedle.pdb
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\FSharp.Core.xml
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\HP\Documents\c# practice\Crime App\Crime App\obj\Debug\Crime_App.Dashboard.resources
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\Crime App.exe.config
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\Crime App.exe
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\Crime App.pdb
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\Deedle.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\EntityFramework.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\FSharp.Core.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\LiveCharts.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\MaterialSkin.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\System.Data.SQLite.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\Deedle.pdb
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\EntityFramework.xml
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\FSharp.Core.xml
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\LiveCharts.pdb
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\LiveCharts.xml
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\System.Data.SQLite.xml
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\obj\Debug\Crime App.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\obj\Debug\Login_Page.g.cs
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\obj\Debug\Mainwindow.g.cs
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\obj\Debug\App.g.cs
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\obj\Debug\Crime App_MarkupCompile.cache
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\obj\Debug\Crime App_MarkupCompile.lref
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\obj\Debug\Login_Page.baml
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\obj\Debug\Mainwindow.baml
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\obj\Debug\Crime App.g.resources
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\obj\Debug\Crime_App.Dashboard.resources
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\obj\Debug\Crime_App.Properties.Resources.resources
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\obj\Debug\Crime App.csproj.GenerateResource.cache
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\obj\Debug\Crime App.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\obj\Debug\Crime App.csproj.CopyComplete
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\obj\Debug\Crime App.exe
+C:\Users\HP\Documents\CrimeGuardSofware\Crime App\obj\Debug\Crime App.pdb
